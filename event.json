@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "user": "Chelsea",
+      "title": "swimming",
+      "date": "2024-02-01",
+      "startTime": "09:00",
+      "endTime": "11:00"
+    },
+    {
+      "user": "Chelsea",
+      "title": "cinema",
+      "date": "2024-01-09",
+      "startTime": "19:00",
+      "endTime": "21:00"
+    },
+    {
+      "user": "Matthew",
+      "title": "work",
+      "date": "2024-01-21",
+      "startTime": "09:00",
+      "endTime": "17:00"
+    },
+    {
+      "user": "Lisa",
+      "title": "gym",
+      "date": "2024-01-21",
+      "startTime": "09:00",
+      "endTime": "17:00"
+    },
+    {
+      "user": "Malcolm",
+      "title": "date",
+      "date": "2024-01-21",
+      "startTime": "18:00",
+      "endTime": "21:00"
+    },
+    {
+      "user": "Lisa",
+      "title": "date",
+      "date": "2024-01-21",
+      "startTime": "18:00",
+      "endTime": "21:00"
+    }
+  ]
+}
