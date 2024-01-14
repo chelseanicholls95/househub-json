@@ -3,44 +3,51 @@
     {
       "user": "Chelsea",
       "title": "swimming",
-      "date": "2024-02-01",
+      "date": "2024-01-14",
       "startTime": "09:00",
       "endTime": "11:00"
     },
     {
       "user": "Chelsea",
       "title": "cinema",
-      "date": "2024-01-09",
+      "date": "2024-01-15",
       "startTime": "19:00",
       "endTime": "21:00"
     },
     {
       "user": "Matthew",
       "title": "work",
-      "date": "2024-01-21",
+      "date": "2024-01-14",
       "startTime": "09:00",
       "endTime": "17:00"
     },
     {
       "user": "Lisa",
       "title": "gym",
-      "date": "2024-01-21",
+      "date": "2024-01-14",
       "startTime": "09:00",
-      "endTime": "17:00"
+      "endTime": "10:00"
     },
     {
       "user": "Malcolm",
-      "title": "date",
-      "date": "2024-01-21",
+      "title": "meal",
+      "date": "2024-01-15",
       "startTime": "18:00",
       "endTime": "21:00"
     },
     {
       "user": "Lisa",
-      "title": "date",
+      "title": "shopping",
       "date": "2024-01-21",
       "startTime": "18:00",
       "endTime": "21:00"
+    },
+    {
+      "user": "Matthew",
+      "title": "meeting friends",
+      "date": "2024-01-15",
+      "startTime": "11:00",
+      "endTime": "17:00"
     }
   ]
 }
